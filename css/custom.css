@@ -76,3 +76,6 @@ h2{font-weight: 700; color: #2a1454 }
 .exper-work-list li{margin-bottom: 25px;}
 .exper-card:hover{background: linear-gradient(90deg, rgba(135,80,247,1) 0%, rgba(42,20,84,1) 91%);}
 .exper-card:hover h3, .exper-card:hover .time-expert, .exper-card:hover .institute{color: #fff;}
+.skill-card img{max-width: 60px;}
+.post-skills-tools ul{display: flex; list-style: none; justify-content: center; gap: 25px;}
+.post-skills-tools ul li{border-radius: 25px; padding: 40px 15px 30px; background-color: #f6f3fc;}
